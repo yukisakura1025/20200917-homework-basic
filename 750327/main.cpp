@@ -7,8 +7,7 @@ int main() {
     cin >> num;
     if (num % 3 == 0) {
       cout << "這是三的倍數";
-    }
-    else {
+    } else {
         cout << "這不是三的倍數";
     }
 }
